@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4a70b5527c49b44ebd9471497f726e9, type: 3}
+  m_Name: Props
+  m_EditorClassIdentifier: 
+  propType:
+  - propSprite: {fileID: -1216995585, guid: 63723d4ae7eddb34d9fd5fce70dc3782, type: 3}
+    coinValue: 1
+  - propSprite: {fileID: 181294722, guid: 63723d4ae7eddb34d9fd5fce70dc3782, type: 3}
+    coinValue: 3
+  - propSprite: {fileID: 1511335159, guid: 63723d4ae7eddb34d9fd5fce70dc3782, type: 3}
+    coinValue: 5
+  - propSprite: {fileID: -1749708761, guid: 63723d4ae7eddb34d9fd5fce70dc3782, type: 3}
+    coinValue: 10
+  - propSprite: {fileID: 1221898834, guid: 63723d4ae7eddb34d9fd5fce70dc3782, type: 3}
+    coinValue: 15
+  - propSprite: {fileID: -1118700583, guid: 63723d4ae7eddb34d9fd5fce70dc3782, type: 3}
+    coinValue: 20
